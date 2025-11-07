@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ✋, I'm Christian!  <br>Aspiring MERN Stack Developer<br>- 🌱 Currently studying Mern<br>- 🛠️ Exploring Docker for containerization<br>- 🤖 I love AI, and I’m also building AI automations using n8n 
+Hi ✋, I'm Christian!  <br>Aspiring Developer<br>- 🌱 Currently studying Mern<br>- 🛠️ Exploring Docker for containerization<br>- 🤖 I love AI, and I’m also building AI automations using n8n 
 
 
 ## 🌐 Socials:
