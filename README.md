@@ -1,28 +1,77 @@
-# 💫 About Me:
-Hi ✋, I'm Christian!  <br>Aspiring Developer<br>- 🌱 Currently studying Mern<br>- 🛠️ Exploring Docker for containerization<br>- 🤖 I love AI, and I’m also building AI automations using n8n 
+<div align="center">
+
+# 👋 Hi, I'm Christian
 
 
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@HEZORAIME) 
+<p>
+🚀 MERN Stack • 🤖 AI Automation
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Learning+MERN+Stack;Building+AI+Automations+with+n8n;Exploring+Docker;Always+Learning+New+Technologies"/>
+
+</div>
+
+---
+
+## 🚗 GitHub Journey
+
+<p align="center">
+
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=HEZORAIME&theme=road_trip&pixelate_avatar=false"/>
+
+</p>
+
+---
+
+
+
+# 🌐 Connect with Me
+
+<p align="center">
+
+<a href="https://tiktok.com/@HEZORAIME">
+<img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,mongodb,mysql,docker,git,github,vscode,notion"/>
+
+</p>
+
+---
+
+
+
+
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+
+  <img alt="Pacman Contribution Graph"
+       src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-# 💻 Tech Stack:
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
+# 💬 Random Dev Quote
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HEZORAIME&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HEZORAIME&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
