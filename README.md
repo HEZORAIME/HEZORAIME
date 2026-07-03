@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=gradient&customColorList=12,14,18,20,24"/>
 
-# 👋 Hi, I'm Christian
+# <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="32"> Hi, I'm Christian
 
 <p>
 🚀 MERN Stack • 🤖 AI Automation
