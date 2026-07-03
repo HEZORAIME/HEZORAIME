@@ -3,15 +3,14 @@
 
 # <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="32"> Hi, I'm Christian
 
-<p>
-🚀 MERN Stack • 🤖 AI Automation
+<p align="center">
+🚀 <strong>MERN Stack</strong>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+🤖 <strong>AI Automation</strong>
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Building+AI+Automations+with+n8n;Exploring+Docker;Always+Learning+New+Technologies;I+LOVE+YOU"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=HEZORAIME&label=Profile+Views&color=00C9A7&style=for-the-badge"/>
 
 </div>
 
