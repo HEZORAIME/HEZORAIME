@@ -1,4 +1,5 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=gradient&customColorList=12,14,18,20,24"/>
 
 # 👋 Hi, I'm Christian
 
@@ -14,7 +15,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=gradient&customColorList=12,14,18,20,24"/>
+
 
 <br>
 
